@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1681156742 source:c:\users\naaba\documents\programming\c++\abigail mobilemoney\main.cpp
+	<iostream>
+	<fstream>
+
+1681058678 source:c:\users\naaba\documents\programming\c++\abigail mobilemoney\src\menus.cpp
+	"menus.h"
+
+1681058678 c:\users\naaba\documents\programming\c++\abigail mobilemoney\include\menus.h
+
